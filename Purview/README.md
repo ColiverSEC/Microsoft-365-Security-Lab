@@ -22,20 +22,25 @@ This project showcases a hands-on lab where I configured and tested **Microsoft 
 ## 📸 Key Screenshots
 
 ### ✅ Compliance Portal Overview
-![Compliance Portal](screenshots/compliance-portal.png)
+![Compliance Portal](Screenshots/purview-compliance-portal-overview.png)
+
+### ✅ DLP Policy List
+![DLP Policy Summary](Screenshots/dlp-policy-list.png)
 
 ### ✅ DLP Policy Summary
-![DLP Policy Summary](screenshots/dlp-policy-summary.png)
+![DLP Policy Summary](Screenshots/dlp-policy-review-and-finish.png)
 
 ### ✅ Example Trigger: Email with Sensitive Info
-![Triggered Email](screenshots/email-trigger.png)
+![Triggered Email](Screenshots/dlp-test-email.png)
 
 ### ✅ DLP Alert in Microsoft Purview
-![DLP Alert](screenshots/dlp-alert-purview.png)
+![DLP Alert](Screenshots/dlp-policy-match-alerts.png)
 
 ### ✅ Sensitivity Labels Example
-![Sensitivity Labels](screenshots/sensitivity-labels.png)
+![Sensitivity Labels](Screenshots/dlp-sensitivity-labels.png)
 
+### ✅ Audit Log Example
+![Audit Log](Screenshots/dlp-audit-log.png)
 ---
 
 ## 📂 Full Workflow Walkthrough
