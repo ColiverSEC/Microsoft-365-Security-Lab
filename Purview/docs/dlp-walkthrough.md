@@ -19,16 +19,16 @@ This walkthrough documents the process of creating, configuring, testing, and ve
   ![Sensitivity Labels List](../Screenshots/02-dlp-sensitivity-labels.png)
 
 - Create Label – Basics (Name & Description)  
-  ![Create Label Basics](../Screenshots/03-dlp-create-label-basics.png)
+  ![Create Label Basics](../Screenshots/19-new-sensitivity-label.png)
 
 - Label Scope (Exchange, SharePoint, OneDrive)  
-  ![Label Scope](../Screenshots/04-dlp-label-scope.png)
+  ![Label Scope](../Screenshots/20-label-scope.png)
 
 - Encryption and Marking Configuration (if configured)  
-  ![Encryption Settings](../Screenshots/05-dlp-encryption-marking.png)
+  ![Encryption Settings](../Screenshots/21-encryption-and-watermark.png)
 
 - Publish Label Policy  
-  ![Publish Label Policy](../Screenshots/06-dlp-publish-label-policy.png)
+  ![Publish Label Policy](../Screenshots/22-publish-label.png)
 
 
 ---
