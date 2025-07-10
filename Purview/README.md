@@ -1,5 +1,7 @@
 # Microsoft Purview Data Loss Prevention (DLP) Lab
 
+[⬅️ Back to Microsoft 365 Security & Compliance Lab Overview](../README.md)
+
 This project showcases a hands-on lab where I configured and tested **Microsoft Purview's Data Loss Prevention (DLP)** capabilities. The process began by creating and publishing **Sensitivity Labels** to classify sensitive data such as PHI and PII. Then, I created, deployed, and validated a DLP policy that protects this sensitive data within Microsoft 365, with alerts surfaced across **Purview**, **Defender for Cloud Apps**, and **audit logs**.
 
 ---
