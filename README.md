@@ -15,7 +15,7 @@ The lab simulates how these tools work together to protect sensitive data, enfor
 
 ## 🔧 Lab Sections
 
-### 1️⃣ [Purview Compliance Lab](./purview/README.md)
+### 1️⃣ [Purview Compliance Lab](./Purview/README.md)
 Focus: **Data Loss Prevention (DLP), Sensitivity Labels, Audit Logs, and Compliance Solutions.**
 
 Topics Covered:
