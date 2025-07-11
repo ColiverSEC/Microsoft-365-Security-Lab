@@ -26,7 +26,7 @@ Topics Covered:
 
 ---
 
-### 2️⃣ [Defender for Cloud Apps Lab](./defender/README.md)
+### 2️⃣ [Defender for Cloud Apps Lab](./Defender/README.md)
 Focus: **Threat Detection, App Governance, and Security Operations.**
 
 Topics Covered:
