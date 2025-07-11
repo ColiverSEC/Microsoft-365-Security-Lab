@@ -1,5 +1,7 @@
 # ☁️ Microsoft 365 Security Lab: Cloud Discovery with Microsoft Defender for Cloud Apps
 
+[⬅️ Back to Microsoft 365 Security & Compliance Lab Overview](../README.md)
+
 ## 🔍 Focus Area: Shadow IT Discovery & App Risk Analysis
 
 This lab demonstrates how to use **Microsoft Defender for Cloud Apps (MDCA)** to discover unsanctioned applications (Shadow IT) in an environment by ingesting network traffic through firewall logs.
