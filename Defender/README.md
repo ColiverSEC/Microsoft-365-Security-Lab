@@ -86,6 +86,20 @@ This lab demonstrates how to use **Microsoft Defender for Cloud Apps (MDCA)** to
 
 ---
 
+## 📂 Full Workflow Walkthrough
+
+See the [full Cloud Discovery snapshot creation and analysis walkthrough](docs/defender-walkthrough.md) for step-by-step screenshots and instructions, including:
+
+- Uploading a sample firewall log (Generic W3C)  
+- Creating a Cloud Discovery snapshot report  
+- Monitoring report processing status  
+- Reviewing discovered cloud apps and risk scores  
+- Taking action: sanctioning/unsanctioning apps  
+- Exploring app governance and policy creation (upcoming)
+
+---
+
+
 ## 🔍 Key Findings
 
 - Shadow IT apps such as Dropbox, Slack, and Google Drive were detected.
