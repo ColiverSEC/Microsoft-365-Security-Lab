@@ -6,7 +6,7 @@ This walkthrough guides you through creating and analyzing a Cloud Discovery sna
 
 ## Step 1: Sign in and Access Cloud Discovery
 
-- Navigate to [https://portal.cloudappsecurity.com](https://portal.cloudappsecurity.com).
+- Navigate to [https://security.microsoft.com/](https://security.microsoft.com/).
 - Sign in with your admin or lab account.
 - In the left-hand menu, select **Cloud Discovery**.
 
