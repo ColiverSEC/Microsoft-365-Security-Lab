@@ -173,4 +173,7 @@ These troubleshooting steps helped reinforce the importance of validating your s
 
 ---
 
-*Author: Cleveland Oliver*  
+## 👨‍💻 Author  
+Cleveland Oliver
+
+---
