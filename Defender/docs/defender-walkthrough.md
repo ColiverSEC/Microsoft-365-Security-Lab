@@ -74,4 +74,8 @@ This walkthrough provides hands-on experience ingesting firewall log data into M
 
 ---
 
+## 👨‍💻 Author  
+Cleveland Oliver
+
+---
 
