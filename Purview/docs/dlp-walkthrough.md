@@ -1,5 +1,7 @@
 # Data Loss Prevention (DLP) Policy Walkthrough
 
+[⬅️ Back to Microsoft 365 Security & Compliance Lab Overview](../README.md)
+
 This walkthrough documents the process of creating, configuring, testing, and verifying a Microsoft Purview DLP policy to protect sensitive data such as PHI and PII. The full workflow includes creating **Sensitivity Labels**, deploying a **DLP Policy**, and reviewing the results across alerts and audit logs.
 
 ---
