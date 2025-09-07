@@ -18,7 +18,11 @@ These walkthroughs simulate **real-world Microsoft 365 security and compliance t
 
 | Walkthrough | Description |
 |------------|-------------|
-| 🧑‍💻 [DLP Policy Walkthrough](./docs/dlp-walkthrough.md) | Step-by-step guide to create and publish sensitivity labels, configure DLP policies and rules, test email triggers, review alerts, and verify audit logs. |
+| 🧑‍💻 [Creating Sensitivity Labels](./docs/dlp-walkthrough.md#creating-sensitivity-labels) | Step-by-step instructions to create parent and sublabels, define classifications, and publish labels to users. |
+| 🛡️ [Deploying DLP Policies](./docs/dlp-walkthrough.md#deploying-dlp-policies) | Configure DLP policies, define rules and actions, enable policy mode, and manage policy scope. |
+| 📧 [Testing Policies with Emails](./docs/dlp-walkthrough.md#testing-policies-with-emails) | Send test emails containing sensitive data to validate DLP policy enforcement. |
+| 🔔 [Reviewing Alerts](./docs/dlp-walkthrough.md#reviewing-alerts) | Monitor policy triggers, view alerts and incidents in Purview and Defender for Cloud Apps. |
+| 📄 [Verifying Audit Logs](./docs/dlp-walkthrough.md#verifying-audit-logs) | Check audit logs for DLP events and verify compliance reporting. |
 
 ---
 
@@ -47,5 +51,4 @@ These walkthroughs simulate **real-world Microsoft 365 security and compliance t
 - Automate DLP policy deployment with **Microsoft Graph or PowerShell**  
 - Integrate additional **sensitivity labels** and **auto-labeling policies**  
 - Monitor alerts and maintain compliance using **audit logs**  
-
----
+- Explore advanced DLP **policy tuning** and **user education** to reduce false positives  
