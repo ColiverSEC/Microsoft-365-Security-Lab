@@ -1,69 +1,61 @@
-# Microsoft 365 Security & Compliance Lab 🛡️
-Hands-on labs covering Microsoft 365 Security and Compliance tools including Microsoft Purview, Microsoft Defender, and Intune. Focused on real-world identity protection, data governance, and device management scenarios.
+# 🛡️ Microsoft 365 Security & Compliance Lab
+
+Hands-on **Microsoft 365 Security and Compliance lab** covering Microsoft Purview, Microsoft Defender, and Intune.
+
+This lab demonstrates how enterprises:
+
+- ✅ Protect sensitive data with DLP and sensitivity labels  
+- ✅ Monitor and respond to security incidents via Defender  
+- ✅ Enforce device compliance and Conditional Access with Intune  
+- ✅ Integrate alerts and policies across M365 security tools  
 
 ---
 
-This lab demonstrates the practical use of **Microsoft 365 security and compliance tools**, focusing on configuring and testing:
+## 🗂️ Lab Modules
 
-- 🔍 Microsoft Purview Compliance Portal
-- 🛡️ Microsoft Defender Portal
-- 📱 Microsoft Intune
-
-The lab simulates how these tools work together to protect sensitive data, enforce compliance policies, and secure devices and users across an M365 tenant.
-
----
-
-## 🔧 Lab Sections
-
-### 1️⃣ [Purview Compliance Lab](./Purview/README.md)
-Focus: **Data Loss Prevention (DLP), Sensitivity Labels, Audit Logs, and Compliance Solutions.**
-
-Topics Covered:
-- DLP Policy creation & testing
-- Sensitivity Labels and Auto-Labeling
-- Compliance alerts in Purview
-- Audit log search and compliance reporting
+| Module | Description |
+|--------|-------------|
+| 🔍 [Purview Compliance Lab](./Purview/) | Configure DLP policies, sensitivity labels, audit logs, and compliance alerts. |
+| 🛡️ [Defender for Cloud Apps Lab](./Defender/) | Detect threats, review incidents, and integrate security alerts with Purview. |
+| 📱 [Intune Device & App Management Lab](./Intune/) | Enroll and manage devices, configure compliance policies, deploy app protection, and trigger Conditional Access. |
 
 ---
 
-### 2️⃣ [Defender for Cloud Apps Lab](./Defender/README.md)
-Focus: **Threat Detection, App Governance, and Security Operations.**
+## 🖥️ Lab Environment
 
-Topics Covered:
-- Cloud App discovery
-- Creating and triggering Defender alerts
-- Reviewing incidents and taking response actions
-- Integrating Defender for Cloud Apps with Purview alerts
-
----
-
-### 3️⃣ [Intune Device & App Management Lab](./intune/README.md)
-Focus: **Device Compliance, Conditional Access, and App Protection Policies.**
-
-Topics Covered:
-- Enrolling and managing devices
-- Configuring device compliance policies
-- Deploying app protection policies
-- Triggering Conditional Access scenarios
+| Component     | Detail                            |
+|---------------|-----------------------------------|
+| Cloud Tenant  | Microsoft 365 Developer Tenant    |
+| Devices       | Windows 10/11, iOS/Android (emulated or physical) |
+| Tools         | Purview Compliance Portal, Defender Portal, Intune, Exchange Online |
 
 ---
 
-## 📊 End-to-End Use Case Example
+## 🔧 Tools Used
 
-1. **A user tries to send an email containing PHI data.**
-2. **Purview DLP** blocks the email and raises an alert.
-3. **Defender** picks up the alert for security review.
-4. If the user’s device is non-compliant, **Intune** applies Conditional Access and restricts access.
-
----
-
-## 🚨 Tools Used
-- Microsoft Purview Compliance Portal
-- Microsoft Defender Portal
-- Microsoft Intune
-- Exchange Online (for mail flow and DLP testing)
+- Microsoft Purview Compliance Portal  
+- Microsoft Defender Portal  
+- Microsoft Intune  
+- Exchange Online (for mail flow and DLP testing)  
+- Windows / iOS / Android devices (emulated or physical)
 
 ---
 
-👉 See each folder for step-by-step guides and screenshots.
+## 🌐 Related Lab
 
+| Lab | Focus |
+|-----|-------|
+| 🔒 [Enterprise IAM Lab](../enterprise-iam/README.md) | Identity and access management across AD, Entra, Okta, and federation protocols. |
+
+---
+
+## 💡 Next Steps
+
+Explore each module to gain **hands-on M365 security and compliance skills**:  
+
+- Create and test DLP policies and sensitivity labels  
+- Detect and respond to cloud security incidents  
+- Enforce Conditional Access for compliant and non-compliant devices  
+- Integrate alerts and automation across Purview, Defender, and Intune  
+
+Completing this lab prepares you to **secure users, devices, and data across Microsoft 365 environments**.
