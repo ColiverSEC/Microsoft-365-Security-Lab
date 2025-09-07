@@ -15,9 +15,9 @@ This lab demonstrates how enterprises:
 
 | Module | Description |
 |--------|-------------|
-| 🔍 [Purview Data Protection](./Purview/) | Configure DLP policies, sensitivity labels, audit logs, and compliance alerts. |
-| 🛡️ [Defender for Cloud Apps](./Defender/) | Detect threats, review incidents, and integrate security alerts with Purview. |
-| 📱 [Intune Device & App Management](./Intune/) | Enroll and manage devices, configure compliance policies, deploy app protection, and trigger Conditional Access. |
+| 🔍 [Purview Data Protection](./Purview/) | DLP policy configuration, sensitivity label creation, audit log monitoring, and compliance alert management |
+| 🛡️ [Defender for Cloud Apps](./Defender/) | Threat detection, incident investigation, Shadow IT analysis, and integration of security alerts with Purview |
+| 📱 [Intune Device & App Management](./Intune/) | Device enrollment and management, compliance policy enforcement, app deployment, and Conditional Access configuration |
 
 ---
 
